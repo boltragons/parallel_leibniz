@@ -1,0 +1,21 @@
+Arquivo: pi2.txt
+Description: Tempo em segundos das 16 threads do processo filho pi2.
+
+TID 12260: 2,25
+TID 12261: 2,81
+TID 12263: 2,68
+TID 12265: 2,67
+TID 12267: 2,29
+TID 12268: 2,66
+TID 12270: 2,80
+TID 12272: 2,50
+TID 12274: 2,79
+TID 12276: 1,99
+TID 12278: 2,78
+TID 12280: 1,79
+TID 12282: 1,85
+TID 12284: 2,41
+TID 12286: 2,02
+TID 12288: 2,45
+
+Total: 38,73 s
